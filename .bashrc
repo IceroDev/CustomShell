@@ -82,6 +82,9 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+# Whats my ip alias
+alias ipx='curl ifconfig.io -4 && curl ifconfig.io -6'
+
 # security alias
 alias rm='rm -i'
 
